@@ -1,6 +1,7 @@
 ﻿ID,User,User Name,Job Title,Reports To,Territory,Territory Mgr
 1,Adrian Cole,adc@yourdomain.com,Sales Manager,,,
-2,Sophia Martinez,sm@yourdomain.com,Sales Representative,Nancy Warner,Northwest,Yes
-3,Alexander Reed,ar@yourdomain.com,Sales Representative,Nancy Warner,Southwest,Yes
-4,Dominic Evans,dev@yourdomain.com,Sales Representative,Nancy Warner,Northeast,Yes
-5,Sebastian Wright,sew@yourdomain.com,Sales Representative,Nancy Warner,Southeast,Yes
+2,Sophia Martinez,sm@yourdomain.com,Sales Representative,Adrian Cole,Northwest,Yes
+3,Alexander Reed,ar@yourdomain.com,Sales Representative,Adrian Cole,Southwest,Yes
+4,Dominic Evans,dev@yourdomain.com,Sales Representative,Adrian Cole,Northeast,Yes
+5,Sebastian Wright,sew@yourdomain.com,Sales Representative,Adrian Cole,Southeast,Yes
+
