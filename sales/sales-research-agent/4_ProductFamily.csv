@@ -1,0 +1,10 @@
+Name ,Product ID,Unit Group,Default Unit,Product Structure,Taxable,Decimals Supported,Status
+COMMERCIAL COFFEE GRINDERS,COMMERCIAL COFFEE GRINDERS,Default Unit,Primary Unit,Product Family,Yes,2,Active
+COMMERCIAL COFFEE MAKERS,COMMERCIAL COFFEE MAKERS,Default Unit,Primary Unit,Product Family,Yes,2,Active
+COMMERCIAL ESPRESSO,COMMERCIAL ESPRESSO,Default Unit,Primary Unit,Product Family,Yes,2,Active
+CONSUMER COFFEE GRINDERS,CONSUMER COFFEE GRINDERS,Default Unit,Primary Unit,Product Family,Yes,2,Active
+CONSUMER COFFEE MAKERS,CONSUMER COFFEE MAKERS,Default Unit,Primary Unit,Product Family,Yes,2,Active
+CONSUMER ESPRESSO,CONSUMER ESPRESSO,Default Unit,Primary Unit,Product Family,Yes,2,Active
+DRINKWARE,DRINKWARE,Default Unit,Primary Unit,Product Family,Yes,2,Active
+SERVICES,SERVICES,Default Unit,Primary Unit,Product Family,Yes,2,Active
+SUBSCRIPTION-CM,SUBSCRIPTION-CM,Default Unit,Primary Unit,Product Family,Yes,2,Active

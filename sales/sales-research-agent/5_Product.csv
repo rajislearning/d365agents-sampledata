@@ -1,0 +1,55 @@
+Name,Product ID,Product Structure,Default Unit,Description,List Price,Parent,Product Type,Purchase Name,Status,Unit Group,Taxable,Decimals Supported
+Café BG-1,CABG1,Product,Primary Unit,,4999,COMMERCIAL COFFEE GRINDERS,Services,Café BG-1,Active,Default Unit,Yes,2
+Café PG-1,CAPG1,Product,Primary Unit,,3999,COMMERCIAL COFFEE GRINDERS,Services,Café PG-1,Active,Default Unit,Yes,2
+Café BG-1 Pro,CAB1PB,Product,Primary Unit,,,COMMERCIAL COFFEE GRINDERS,Sales Inventory,Café BG-1 Pro,Active,Default Unit,Yes,2
+Café PG-1 Pro,CAP1PB,Product,Primary Unit,,,COMMERCIAL COFFEE GRINDERS,Sales Inventory,Café PG-1 Pro,Active,Default Unit,Yes,2
+Airpot,AB,Product,Primary Unit,"Serving large-batch gourmet coffee just got a whole lot easier! With precision technology and easy-to-use features, this striking brewer takes the cake when it comes to providing impeccable coffee in fast-paced environments.",1699,COMMERCIAL COFFEE MAKERS,Services,Airpot,Active,Default Unit,Yes,2
+Airpot XL,AIXL,Product,Primary Unit,"The Airpot XL provides flexibility in high-volume, large sized venues such as Banquet Halls, Cafeterias and Restaurants. This machine helps simplify your daily operations, while giving you total control of your brew.",499,COMMERCIAL COFFEE MAKERS,Services,Airpot XL,Active,Default Unit,Yes,2
+Airpot Duo,ADOB,Product,Primary Unit,,,COMMERCIAL COFFEE MAKERS,Sales Inventory,Airpot Duo,Active,Default Unit,Yes,2
+Airpot Lite,ALB,Product,Primary Unit,,,COMMERCIAL COFFEE MAKERS,Sales Inventory,Airpot Lite,Active,Default Unit,Yes,2
+Café A-100 Automatic,CAA100AU,Product,Primary Unit,"The Café A-100 Automatic is the ideal machine for baristas looking for amazingly consistent coffee. This machine allows baristas to program desired volumes and consistently pull shots at that volume throughout the day. Because the barista no longer has to monitor each and every shot, they are given precious time to interact with customers or perhaps begin another order.",21900,COMMERCIAL ESPRESSO,Services,Café A-100 Automatic,Active,Default Unit,Yes,2
+Café Corto,CACO,Product,Primary Unit,"Featuring an eye-catching design and lower profile to invite customer engagement, the Café Corto is a cutting-edge café centerpiece that encourages engagement, barista experimentation and coffee conversations, while delivering the world’s best coffee extraction.",16900,COMMERCIAL ESPRESSO,Services,Café Corto,Active,Default Unit,Yes,2
+Café Duo,CADU,Product,Primary Unit,"Providing high quality espresso and coffee for large and small shops alike, the Café Duo best accommodates smaller operations that serve a range of 50-80 drinks per day.",12900,COMMERCIAL ESPRESSO,Services,Café Duo,Active,Default Unit,Yes,2
+Café Grande,CAGR,Product,Primary Unit,Keep brewing through the busiest crowds with the simple design and user-friendly features of the Café Grande.,14900,COMMERCIAL ESPRESSO,Services,Café Grande,Active,Default Unit,Yes,2
+Café S-100 Semi-Automatic,CAS100SA,Product,Primary Unit,"The Cafe S-100 Semiautomatic is in a league of its own when it comes to the functionality, style and available customizations. This well-designed commercial espresso machine produces high quality and consistent espresso. It's the perfect size for a small to mid-sized cafe with light to moderate traffic.",17900,COMMERCIAL ESPRESSO,Services,Café S-100 Semi-Automatic,Under Revision,Default Unit,Yes,2
+Café A-200 Automatic,CA200AB,Product,Primary Unit,,,COMMERCIAL ESPRESSO,Sales Inventory,Café A-200 Automatic,Active,Default Unit,Yes,2
+Barista Express,BAEXP,Product,Primary Unit,,,COMMERCIAL ESPRESSO,Sales Inventory,Barista Express,Under Revision,Default Unit,Yes,2
+Café S-200 Semi-Automatic,CA200SB,Product,Primary Unit,,,COMMERCIAL ESPRESSO,Sales Inventory,Café S-200 Semi-Automatic,Active,Default Unit,Yes,2
+Precision Grind Travel,PRGRTRC,Product,Primary Unit,,,CONSUMER COFFEE GRINDERS,Sales Inventory,Precision Grind Travel,Active,Default Unit,Yes,2
+Smart Grind Travel,SMGRTRC,Product,Primary Unit,,,CONSUMER COFFEE GRINDERS,Sales Inventory,Smart Grind Travel,Active,Default Unit,Yes,2
+Precision Grind Home,PGH,Product,Primary Unit,,,CONSUMER COFFEE GRINDERS,Sales Inventory,Precision Grind Home,Active,Default Unit,Yes,2
+Smart Grind Home,SMGRHMC,Product,Primary Unit,,,CONSUMER COFFEE GRINDERS,Sales Inventory,Smart Grind Home,Active,Default Unit,Yes,2
+Travel Brew 100,TRBRC,Product,Primary Unit,,,CONSUMER COFFEE MAKERS,Sales Inventory,Travel Brew 100,Under Revision,Default Unit,Yes,2
+AutoDrip,AD,Product,Primary Unit,,,CONSUMER COFFEE MAKERS,Sales Inventory,AutoDrip,Under Revision,Default Unit,Yes,2
+Precision Brew 100,PBRC,Product,Primary Unit,,1699,CONSUMER COFFEE MAKERS,Sales Inventory,Precision Brew 100,Under Revision,Default Unit,Yes,2
+Barista Home,BAHMC,Product,Primary Unit,,,CONSUMER ESPRESSO,Sales Inventory,Barista Home,Active,Default Unit,Yes,2
+Barista Lite,BALTC,Product,Primary Unit,,,CONSUMER ESPRESSO,Sales Inventory,Barista Lite,Active,Default Unit,Yes,2
+Crema Café,CRCAC,Product,Primary Unit,,,CONSUMER ESPRESSO,Sales Inventory,Crema Café,Active,Default Unit,Yes,2
+Crema Café XL,CRCAXLC,Product,Primary Unit,,,CONSUMER ESPRESSO,Sales Inventory,Crema Café XL,Active,Default Unit,Yes,2
+Crema Quatro,CRQTC,Product,Primary Unit,,,CONSUMER ESPRESSO,Sales Inventory,Crema Quatro,Active,Default Unit,Yes,2
+Accu Scale,ACSC-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Accu Scale,Active,Default Unit,Yes,2
+Cleaning Kit,DXDCTR,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Cleaning Kit,Active,Default Unit,Yes,2
+Travel Mug,TRMU-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Travel Mug,Active,Default Unit,Yes,2
+Travel Mug XL,TRMUXL-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Travel Mug XL,Active,Default Unit,Yes,2
+Brew Filters,BRFI-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Brew Filters,Active,Default Unit,Yes,2
+Carafe Pro,CAPR-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Carafe Pro,Active,Default Unit,Yes,2
+CP Cappuccino Cup with Saucer,CPCASA-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,CP Cappuccino Cup with Saucer,Active,Default Unit,Yes,2
+CP Latte Cup with Saucer,CPLASA-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,CP Latte Cup with Saucer,Active,Default Unit,Yes,2
+Cupping Glass,CUGL-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Cupping Glass,Active,Default Unit,Yes,2
+Deluxe Decanter,DEDE-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Deluxe Decanter,Active,Default Unit,Yes,2
+Drink Spoon,DRSP-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Drink Spoon,Active,Default Unit,Yes,2
+Frothing Pitcher,FRPI-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Frothing Pitcher,Active,Default Unit,Yes,2
+Quick Kettle,QUKE-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Quick Kettle,Active,Default Unit,Yes,2
+Stainless Steel Tamper,STSTTA-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Stainless Steel Tamper,Active,Default Unit,Yes,2
+Storage Canister,SMW300,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Storage Canister,Active,Default Unit,Yes,2
+Diner Mug,DIMU-SP,Product,Primary Unit,,,DRINKWARE,Sales Inventory,Diner Mug,Active,Default Unit,Yes,2
+Water line,CAWATLN,Product,Primary Unit,,,SERVICES,Sales Inventory,Water line,Active,Default Unit,Yes,2
+Capacity IoT sensor,CACAPIOTSENS,Product,Primary Unit,,,SERVICES,Sales Inventory,Capacity IoT sensor,Active,Default Unit,Yes,2
+Descaling Solution,CADESCSOL,Product,Primary Unit,,,SERVICES,Sales Inventory,Descaling Solution,Active,Default Unit,Yes,2
+1-Year Espresso Blend Coffee Subscription,1YRESBL,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,1-Year Espresso Blend Coffee Subscription,Active,Default Unit,Yes,2
+1-Year Fair Trade Coffee Subscription,1YRFATR,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,1-Year Fair Trade Coffee Subscription,Active,Default Unit,Yes,2
+1-Year Organic Office Coffee Subscription,1YROROF,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,1-Year Organic Office Coffee Subscription,Active,Default Unit,Yes,2
+2-Year Espresso Blend Subscription,2YRESBL,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,2-Year Espresso Blend Subscription,Active,Default Unit,Yes,2
+2-Year Fair Trade Coffee Subscription,2YRFATR,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,2-Year Fair Trade Coffee Subscription,Active,Default Unit,Yes,2
+2-Year Organic Office Coffee Subscription,2YROROF,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,2-Year Organic Office Coffee Subscription,Active,Default Unit,Yes,2
+6-Month Fair Trade Coffee Subscription,6MOFATR,Product,Primary Unit,,,SUBSCRIPTION-CM,Sales Inventory,6-Month Fair Trade Coffee Subscription,Active,Default Unit,Yes,2
