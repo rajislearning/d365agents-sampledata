@@ -1,0 +1,4 @@
+Rating,Company name,Website,First Name,Last Name,Job Title,Email,Phone,Industry,No of Employee,Country/Region,Source,Est Value,Topic
+Cold,Boeing,https://www.boeing.com,Poddar,Sheikh,CIO,rajeev.kumar@microsoft.com,1234567891,Aerospace,1000,India,Web,50001,Predictive Maintenance Solutions for Commercial Aircraft
+Cold,Toyata,https://www.toyota.com/,RamKumar,John,CTO,rajeev.kumar@microsoft.com,1234567892,Transport,2500,Japan,Web,100001,Need soution for global supply chain optimization and dealer network CRM leveraging Dynamics 365 for scalability and efficiency.
+Cold,Dyn Monk,www.dynamicsmonk.com,Monk,Jain,CTO,rajeev.kumar@microsoft.com,1234567893,Consulting,25,India,Web,1001,Need soution for consulting services
